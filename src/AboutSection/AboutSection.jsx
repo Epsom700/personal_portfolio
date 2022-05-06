@@ -19,6 +19,7 @@ const AboutSection = () => {
                     </Col>
                     <Col>
                     <div className="intro">
+                        Hello world
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
                         Assumenda accusantium sequi ex unde 
                         quam totam! Odit tempora odio voluptatem! Repudiandae, 
