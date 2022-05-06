@@ -1,0 +1,22 @@
+.About1{
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    margin: 4rem;
+}
+
+.About2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.intro{
+    font-size: 1.5rem;
+}
